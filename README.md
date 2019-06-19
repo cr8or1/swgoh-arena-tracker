@@ -14,5 +14,4 @@ ARENA_TYPE - `SQUAD`/`FLEET`
 
 DISCORD_WEB_HOOK - web hook to discord channel
 
-
-
+GAME_CLIENT_VERSION - not required, but in case of new game updates can crash the tracker(current version is 0.16.1)
