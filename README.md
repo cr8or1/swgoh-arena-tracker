@@ -30,6 +30,7 @@ GAME_CLIENT_VERSION - not required, but in case of new game updates can crash th
 
 ### 5. Press `Reveal Config Vars` button and set environment variables.
 ![ScreenShot](assets/set-env-variables.png)
+
 Ally codes is a comma-separated string(like: 123456789,125456189 ...).
 
 You will need to create a Discord web hook in the channel of choice.
