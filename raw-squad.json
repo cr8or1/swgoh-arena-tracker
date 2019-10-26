@@ -37,7 +37,7 @@
   {
   "name": "Xharoy (KRSW)",
   "allyCode": "616474236",
-  "discordId": "464441341523263488"
+  "discordId": ""
   },
   {
   "name": "C0il",
@@ -112,11 +112,6 @@
   {
   "name": "Sormajonny",
   "allyCode": "794512154",
-  "discordId": ""
-  },
-  {
-  "name": "Kaanbanned",
-  "allyCode": "899343471",
   "discordId": ""
   },
   {
@@ -232,6 +227,36 @@
   {
     "name": "Carminae",
     "allyCode": "877496919",
+    "discordId": ""
+  },
+  {
+    "name": "Reaven",
+    "allyCode": "746154778",
+    "discordId": ""
+  },
+  {
+    "name": "Miphox",
+    "allyCode": "322361893",
+    "discordId": ""
+  },
+  {
+    "name": "DarthStarKiller",
+    "allyCode": "182992372",
+    "discordId": ""
+  },
+  {
+    "name": "tetemagique",
+    "allyCode": "263277394",
+    "discordId": ""
+  },
+  {
+    "name": "Void Walker",
+    "allyCode": "752294497",
+    "discordId": ""
+  },
+  {
+    "name": "Justen",
+    "allyCode": "944265966",
     "discordId": ""
   }
 ]
