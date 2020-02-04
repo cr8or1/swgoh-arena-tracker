@@ -87,7 +87,7 @@
   {
   "name": "Black",
   "allyCode": "617421681",
-  "discordId": "543447203151347739"
+  "discordId": ""
   },
   {
   "name": "Ethan",
@@ -172,7 +172,7 @@
   {
   "name": "Chalbran Leone",
   "allyCode": "936893352",
-  "discordId": ""
+  "discordId": "371059984126967810"
   },
   {
   "name": "Sofaczar",
@@ -262,6 +262,11 @@
   {
     "name": "Crimsonwolf",
     "allyCode": "234847825",
+    "discordId": ""
+  },
+  {
+    "name": "RohDiggity",
+    "allyCode": "623727697",
     "discordId": ""
   }
 ]
