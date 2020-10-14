@@ -75,7 +75,7 @@
   "discordId": "337255241693265930"
   },
   {
-  "name": "Swagness Everdeen (Azuree)",
+  "name": "Swagness Everdeen",
   "allyCode": "554421543",
   "discordId": "492811487795216387"
   },
@@ -407,6 +407,11 @@
   {
     "name": "Obi erik b",
     "allyCode": "922643285",
+    "discordId": ""
+  },
+  {
+    "name": "ObiKenobi",
+    "allyCode": "285346573",
     "discordId": ""
   }
 ]
