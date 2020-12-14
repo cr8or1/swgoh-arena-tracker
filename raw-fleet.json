@@ -175,6 +175,11 @@
     "discordId": "457845783300145152"
   },
   {
+    "name": "Dan Lambskin",
+    "allyCode": "739383161",
+    "discordId": "336527059423854612"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
     "discordId": "",
@@ -297,12 +302,6 @@
   {
     "name": "Nuggetjedi",
     "allyCode": "748336458",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Dan Lambskin",
-    "allyCode": "739383161",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
