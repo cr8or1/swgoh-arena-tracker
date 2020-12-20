@@ -180,6 +180,11 @@
     "discordId": "336527059423854612"
   },
   {
+    "name": "Motdrahcir",
+    "allyCode": "186597995",
+    "discordId": "320089450963140609"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
     "discordId": "",
@@ -206,12 +211,6 @@
   {
     "name": "Jir'vin Antobal",
     "allyCode": "827611334",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Motdrahcir",
-    "allyCode": "186597995",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
