@@ -61,11 +61,6 @@
     "discordId": "265840999337558018"
   },
   {
-    "name": "Comisario Tincho",
-    "allyCode": "176132811",
-    "discordId": "315540531893764106"
-  },
-  {
     "name": "Cailix",
     "allyCode": "693373719",
     "discordId": "136634252883263488"
@@ -398,6 +393,30 @@
   {
     "name": "Resmi Hardin Lien",
     "allyCode": "761582717",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Little Green Friend",
+    "allyCode": "176132811",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Griha",
+    "allyCode": "965256676",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Revixus",
+    "allyCode": "571928153",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Kadeorade",
+    "allyCode": "451424817",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   }
