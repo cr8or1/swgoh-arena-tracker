@@ -185,6 +185,11 @@
     "discordId": "320089450963140609"
   },
   {
+    "name": "Torbayn",
+    "allyCode": "177896731",
+    "discordId": "641299757968523275"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
     "discordId": "",
@@ -535,12 +540,6 @@
   {
     "name": "Overeem",
     "allyCode": "555754642",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Torbayn",
-    "allyCode": "177896731",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
