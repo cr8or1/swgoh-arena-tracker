@@ -190,6 +190,16 @@
     "tagIdOnDrop": "641299757968523275"
   },
   {
+    "name": "AleArias",
+    "allyCode": "477893212",
+    "tagIdOnDrop": "789320722581028934"
+  },
+  {
+    "name": "Sion",
+    "allyCode": "369454526",
+    "tagIdOnDrop": "527577698227191853"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
     "tagIdOnDrop": "",
@@ -421,18 +431,6 @@
   {
     "name": "Philly",
     "allyCode": "579283189",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Sion",
-    "allyCode": "369454526",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "AleArias",
-    "allyCode": "477893212",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
