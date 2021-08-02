@@ -55,11 +55,6 @@
     "tagIdOnDrop": "412696832221904897"
   },
   {
-    "name": "Angry Stepan - J3diMaster",
-    "allyCode": "527553548",
-    "tagIdOnDrop": "494057662967840769"
-  },
-  {
     "name": "Chris",
     "allyCode": "958576877",
     "tagIdOnDrop": "422500334150221824"
@@ -568,6 +563,18 @@
   {
     "name": "Bill0207",
     "allyCode": "486611461",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "J3diMaster(old account of Angry Stepan)",
+    "allyCode": "527553548",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Papaism",
+    "allyCode": "785215442",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   }
