@@ -195,8 +195,31 @@
     "tagIdOnDrop": "527577698227191853"
   },
   {
+    "name": "Oberon Calad",
+    "allyCode": "281171773",
+    "tagIdOnDrop": "393108425367748609"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Ekelki",
+    "allyCode": "279914937",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Shadraq",
+    "allyCode": "579663853",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Wagg Doha",
+    "allyCode": "665922529",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
@@ -495,12 +518,6 @@
     "userIcon": ":skull_crossbones:"
   },
   {
-    "name": "Oberon Calad",
-    "allyCode": "281171773",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
     "name": "Groove",
     "allyCode": "481362826",
     "tagIdOnDrop": "",
@@ -593,6 +610,12 @@
   {
     "name": "Nevols",
     "allyCode": "344281434",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "BigDaddyLove",
+    "allyCode": "922548145",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   }
