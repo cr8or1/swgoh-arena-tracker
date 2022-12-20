@@ -200,6 +200,11 @@
     "tagIdOnDrop": "393108425367748609"
   },
   {
+    "name": "Fin Mufmo",
+    "allyCode": "146532592",
+    "tagIdOnDrop": "371332455266779137"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
     "tagIdOnDrop": "",
@@ -520,12 +525,6 @@
   {
     "name": "Groove",
     "allyCode": "481362826",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Fin Mufmo",
-    "allyCode": "146532592",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
