@@ -625,8 +625,14 @@
     "userIcon": ":skull_crossbones:"
   },
   {
-    "name": "Filowalker ",
+    "name": "Filowalker",
     "allyCode": "985669859",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "AR DorFer",
+    "allyCode": "852532147",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   }
