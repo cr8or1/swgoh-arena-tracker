@@ -205,6 +205,11 @@
     "tagIdOnDrop": "371332455266779137"
   },
   {
+    "name": "Nevols",
+    "allyCode": "344281434",
+    "tagIdOnDrop": "1098271845599420557"
+  },
+  {
     "name": "Άλφα και Ωμέγα",
     "allyCode": "513661861",
     "tagIdOnDrop": "",
@@ -603,12 +608,6 @@
   {
     "name": "Mol Eliza",
     "allyCode": "435298834",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Nevols",
-    "allyCode": "344281434",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
