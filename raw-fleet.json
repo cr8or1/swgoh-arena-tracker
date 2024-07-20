@@ -2,7 +2,8 @@
   {
     "name": "RoadhouseRN",
     "allyCode": "683949831",
-    "tagIdOnDrop": ""
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
   },
   {
     "name": "Nikki Dial",
@@ -157,7 +158,8 @@
   {
     "name": "Iffcians",
     "allyCode": "247791558",
-    "tagIdOnDrop": ""
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
   },
   {
     "name": "BOHICA",
@@ -197,19 +199,9 @@
     "tagIdOnDrop": "320089450963140609"
   },
   {
-    "name": "Quigonjim",
-    "allyCode": "177896731",
-    "tagIdOnDrop": "600837825700692022"
-  },
-  {
     "name": "AleArias",
     "allyCode": "477893212",
     "tagIdOnDrop": "789320722581028934"
-  },
-  {
-    "name": "Sion",
-    "allyCode": "369454526",
-    "tagIdOnDrop": ""
   },
   {
     "name": "Oberon Calad",
@@ -227,10 +219,21 @@
     "tagIdOnDrop": "1098271845599420557"
   },
   {
-    "name": "Άλφα και Ωμέγα",
-    "allyCode": "513661861",
+    "name": "Redeemer",
+    "allyCode": "177896731",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Sion",
+    "allyCode": "369454526",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "GålåÐrïêL",
+    "allyCode": "513661861",
+    "tagIdOnDrop": "966733467100512307"
   },
   {
     "name": "Ekelki",
@@ -613,7 +616,7 @@
     "name": "J3diMaster(old account of Angry Stepan)",
     "allyCode": "527553548",
     "tagIdOnDrop": "",
-    "userIcon": ""
+    "userIcon": ":skull_crossbones:"
   },
   {
     "name": "Papaism",
@@ -696,6 +699,12 @@
   {
     "name": "Fighteronfire",
     "allyCode": "744667742",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Firewalker",
+    "allyCode": "178496636",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   }
