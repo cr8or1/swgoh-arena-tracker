@@ -214,6 +214,11 @@
     "tagIdOnDrop": "371332455266779137"
   },
   {
+    "name": "Arkhanis",
+    "allyCode": "663589175",
+    "tagIdOnDrop": "265558546865717249"
+  },
+  {
     "name": "Nevols",
     "allyCode": "344281434",
     "tagIdOnDrop": "1098271845599420557"
@@ -375,12 +380,6 @@
   {
     "name": "kuva",
     "allyCode": "312673618",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Arkhanis",
-    "allyCode": "663589175",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
