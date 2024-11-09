@@ -226,8 +226,7 @@
   {
     "name": "JaxMaxDaddy",
     "allyCode": "177896731",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
+    "tagIdOnDrop": "927215348304977941"
   },
   {
     "name": "Zockerman84",
@@ -710,5 +709,11 @@
     "name": "Firewalker",
     "allyCode": "178496636",
     "tagIdOnDrop": "666035006245830695"
+  },
+  {
+    "name": "MINI Ghul",
+    "allyCode": "795732257",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
   }
 ]
