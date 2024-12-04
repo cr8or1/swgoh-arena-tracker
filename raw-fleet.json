@@ -194,9 +194,9 @@
     "tagIdOnDrop": "336527059423854612"
   },
   {
-    "name": "Aptom",
+    "name": "Aptom (sioloena)",
     "allyCode": "186597995",
-    "tagIdOnDrop": "320089450963140609"
+    "tagIdOnDrop": "1288874799313059951"
   },
   {
     "name": "AleArias",
@@ -231,6 +231,12 @@
   {
     "name": "Zockerman84",
     "allyCode": "159295296",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "HiggyFett",
+    "allyCode": "366634213",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
