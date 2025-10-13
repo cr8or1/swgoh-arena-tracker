@@ -740,5 +740,11 @@
     "name": "Firewalker",
     "allyCode": "178496636",
     "tagIdOnDrop": "666035006245830695"
+  },
+  {
+    "name": "Marl Jewel",
+    "allyCode": "931223256",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
   }
 ]
