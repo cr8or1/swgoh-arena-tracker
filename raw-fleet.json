@@ -182,6 +182,11 @@
     "tagIdOnDrop": "333883767917903873"
   },
   {
+    "name": "Vladex",
+    "allyCode": "985582338",
+    "tagIdOnDrop": "1496790978239922187"
+  },
+  {
     "name": "Poposky",
     "allyCode": "759198451",
     "tagIdOnDrop": "",
@@ -272,12 +277,6 @@
   {
     "name": "Wagg Doha",
     "allyCode": "665922529",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Vladex",
-    "allyCode": "985582338",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
@@ -779,6 +778,12 @@
   {
     "name": "MINI Ghul",
     "allyCode": "795732257",
+    "tagIdOnDrop": "",
+    "userIcon": ":skull_crossbones:"
+  },
+  {
+    "name": "Caspar",
+    "allyCode": "854917211",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   }
