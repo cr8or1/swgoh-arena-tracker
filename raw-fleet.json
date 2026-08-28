@@ -70,6 +70,11 @@
     "tagIdOnDrop": "422500334150221824"
   },
   {
+    "name": "Marduk Vado",
+    "allyCode": "917452536",
+    "tagIdOnDrop": "873590655518122075"
+  },
+  {
     "name": "dasbinch",
     "allyCode": "825181463",
     "tagIdOnDrop": "337255241693265930"
@@ -503,20 +508,8 @@
     "userIcon": ":skull_crossbones:"
   },
   {
-    "name": "Marduk Vado",
-    "allyCode": "917452536",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
     "name": "Victoire",
     "allyCode": "758299826",
-    "tagIdOnDrop": "",
-    "userIcon": ":skull_crossbones:"
-  },
-  {
-    "name": "Marduk Vado",
-    "allyCode": "917452536",
     "tagIdOnDrop": "",
     "userIcon": ":skull_crossbones:"
   },
